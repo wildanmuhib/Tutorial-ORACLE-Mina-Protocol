@@ -399,3 +399,19 @@ Lalu coba kita uji
 ```
 npm run test
 ```
+
+Jangan lupa build dulu sebelum test yagasyaaaa wkwkwkwk..
+```
+npm run build
+```
+
+
+
+
+
+
+
+
+
+
+
