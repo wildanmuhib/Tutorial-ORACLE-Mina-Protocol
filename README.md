@@ -395,15 +395,29 @@ describe('CreditScoreOracle', () => {
   });
 });
 ```
+
+Build
+```
+npm run build
+```
+
+Update browserlist
+```
+npx browserslist@latest --update-db
+```
+Jangan lupa remote git dan push juga
+```
+git remote add origin <your-repo-url>
+```
+```
+git push -u origin main
+```
+
 Lalu coba kita uji 
 ```
 npm run test
 ```
 
-Jangan lupa build dulu sebelum test yagasyaaaa wkwkwkwk..
-```
-npm run build
-```
 
 
 
