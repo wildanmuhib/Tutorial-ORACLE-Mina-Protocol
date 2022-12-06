@@ -405,7 +405,7 @@ Update browserlist
 ```
 npx browserslist@latest --update-db
 ```
-Jangan lupa remote git dan push juga
+Buat repository baru beri nama oracle. Jangan lupa remote git dan push juga
 ```
 git remote add origin <your-repo-url>
 ```
